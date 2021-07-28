@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          ЖОПА ЖОПНАЯ
+          Тест
+          
         </a>
       </header>
     </div>
